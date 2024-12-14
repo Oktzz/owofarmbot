@@ -1,19 +1,19 @@
 {
     "prefix": "!",
     "main": {
-        "token": "",
-        "userid": "",
-        "commandschannelid": "",
-        "huntbotchannelid": "",
-        "owodmchannelid": "",
-        "gamblechannelid": "",
-        "autoquestchannelid": "",
+        "token": "MTExMzc4NTIwMjkzNDgxMjY3Mg.GHhtIW.7dbNSQwLOEgNPkhRp1Lz1dYqHi9YiMAuVPBvE0",
+        "userid": "1113785202934812672",
+        "commandschannelid": "1316357221986078730",
+        "huntbotchannelid": "1316377710758465636",
+        "owodmchannelid": "1316378026342092801",
+        "gamblechannelid": "1316378081232945232",
+        "autoquestchannelid": "1316378129832345660",
 
         "commands": {
             "hunt": true,
             "battle": true,
-            "pray": false,
-            "curse": true,
+            "pray": true,
+            "curse": false,
             "huntbot": {
                 "enable": true,
                 "maxtime": 10,
@@ -22,7 +22,7 @@
             },
             "gamble": {
                 "coinflip": true,
-                "slot": true
+                "slot": false
             },
             "animals": false,
             "inventory": true,
